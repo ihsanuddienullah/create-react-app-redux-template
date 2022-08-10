@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App With Redux
+## This redux template is using combineReducers and redux-thunk
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
